@@ -1,0 +1,8 @@
+package eBay.main;
+
+public class ProjectException extends Exception {
+
+	public ProjectException(String msg) {
+		super(msg);
+	}
+}

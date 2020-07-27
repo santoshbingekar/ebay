@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Ebay]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Ebay(failed)">
+    <classes>
+      <class name="eBay.sanity.tests.VerifyProductTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="invokeTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- eBay.sanity.tests.VerifyProductTest -->
+    </classes>
+  </test> <!-- Ebay(failed) -->
+</suite> <!-- Failed suite [Ebay] -->

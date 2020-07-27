@@ -1,0 +1,572 @@
+33535 [main] INFO  13 Jun 2019 19:36:39 eBay  - @BeforeTest: Setup failed
+39562 [main] INFO  13 Jun 2019 19:36:45 eBay  - Running AfterTest
+10099 [main] INFO  13 Jun 2019 19:50:33 VerifyProductTest  - @BeforeTest: Setup failed
+16129 [main] INFO  13 Jun 2019 19:50:39 VerifyProductTest  - Running AfterTest
+11695 [main] INFO  13 Jun 2019 19:52:17 VerifyProductTest  - @BeforeTest: Setup failed
+17726 [main] INFO  13 Jun 2019 19:52:23 VerifyProductTest  - Running AfterTest
+11761 [main] INFO  13 Jun 2019 20:01:34 VerifyProductTest  - @BeforeTest: Setup failed
+24014 [main] INFO  14 Jun 2019 15:22:26 VerifyProductTest  - Adroid Capabilities set
+24016 [main] INFO  14 Jun 2019 15:22:26 VerifyProductTest  - @BeforeTest: Setup done
+24016 [main] INFO  14 Jun 2019 15:22:26 VerifyProductTest  - Device version: 9
+24016 [main] INFO  14 Jun 2019 15:22:26 VerifyProductTest  - Reset APK: false
+24017 [main] INFO  14 Jun 2019 15:22:26 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+24017 [main] INFO  14 Jun 2019 15:22:26 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+24017 [main] INFO  14 Jun 2019 15:22:26 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+24017 [main] INFO  14 Jun 2019 15:22:26 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+89592 [main] INFO  14 Jun 2019 15:23:32 VerifyProductTest  - Running AfterTest
+21593 [main] INFO  14 Jun 2019 15:27:39 VerifyProductTest  - Adroid Capabilities set
+21594 [main] INFO  14 Jun 2019 15:27:39 VerifyProductTest  - @BeforeTest: Setup done
+21594 [main] INFO  14 Jun 2019 15:27:39 VerifyProductTest  - Device version: 9
+21594 [main] INFO  14 Jun 2019 15:27:39 VerifyProductTest  - Reset APK: false
+21594 [main] INFO  14 Jun 2019 15:27:39 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21595 [main] INFO  14 Jun 2019 15:27:39 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21595 [main] INFO  14 Jun 2019 15:27:39 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21595 [main] INFO  14 Jun 2019 15:27:39 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+100904 [main] INFO  14 Jun 2019 15:28:59 VerifyProductTest  - Running AfterTest
+22001 [main] INFO  14 Jun 2019 15:53:43 VerifyProductTest  - Adroid Capabilities set
+22002 [main] INFO  14 Jun 2019 15:53:43 VerifyProductTest  - @BeforeTest: Setup done
+22002 [main] INFO  14 Jun 2019 15:53:43 VerifyProductTest  - Device version: 9
+22002 [main] INFO  14 Jun 2019 15:53:43 VerifyProductTest  - Reset APK: false
+22002 [main] INFO  14 Jun 2019 15:53:43 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+22003 [main] INFO  14 Jun 2019 15:53:43 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+22003 [main] INFO  14 Jun 2019 15:53:43 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+22003 [main] INFO  14 Jun 2019 15:53:43 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+93403 [main] INFO  14 Jun 2019 15:54:54 VerifyProductTest  - Running AfterTest
+21541 [main] INFO  14 Jun 2019 15:57:55 VerifyProductTest  - Adroid Capabilities set
+21542 [main] INFO  14 Jun 2019 15:57:55 VerifyProductTest  - @BeforeTest: Setup done
+21542 [main] INFO  14 Jun 2019 15:57:55 VerifyProductTest  - Device version: 9
+21543 [main] INFO  14 Jun 2019 15:57:55 VerifyProductTest  - Reset APK: false
+21543 [main] INFO  14 Jun 2019 15:57:55 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21543 [main] INFO  14 Jun 2019 15:57:55 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21543 [main] INFO  14 Jun 2019 15:57:55 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21543 [main] INFO  14 Jun 2019 15:57:55 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+86544 [main] INFO  14 Jun 2019 15:59:00 VerifyProductTest  - Running AfterTest
+21705 [main] INFO  14 Jun 2019 16:00:51 VerifyProductTest  - Adroid Capabilities set
+21706 [main] INFO  14 Jun 2019 16:00:51 VerifyProductTest  - @BeforeTest: Setup done
+21706 [main] INFO  14 Jun 2019 16:00:51 VerifyProductTest  - Device version: 9
+21706 [main] INFO  14 Jun 2019 16:00:51 VerifyProductTest  - Reset APK: false
+21707 [main] INFO  14 Jun 2019 16:00:51 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21707 [main] INFO  14 Jun 2019 16:00:51 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21707 [main] INFO  14 Jun 2019 16:00:51 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21707 [main] INFO  14 Jun 2019 16:00:51 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+122012 [main] INFO  14 Jun 2019 16:02:32 VerifyProductTest  - Running AfterTest
+21535 [main] INFO  14 Jun 2019 16:08:12 VerifyProductTest  - Adroid Capabilities set
+21536 [main] INFO  14 Jun 2019 16:08:12 VerifyProductTest  - @BeforeTest: Setup done
+21536 [main] INFO  14 Jun 2019 16:08:12 VerifyProductTest  - Device version: 9
+21537 [main] INFO  14 Jun 2019 16:08:12 VerifyProductTest  - Reset APK: false
+21537 [main] INFO  14 Jun 2019 16:08:12 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21537 [main] INFO  14 Jun 2019 16:08:12 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21537 [main] INFO  14 Jun 2019 16:08:12 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21537 [main] INFO  14 Jun 2019 16:08:12 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+97444 [main] INFO  14 Jun 2019 16:09:28 VerifyProductTest  - Running AfterTest
+19978 [main] INFO  14 Jun 2019 16:13:34 VerifyProductTest  - Adroid Capabilities set
+19990 [main] INFO  14 Jun 2019 16:13:34 VerifyProductTest  - @BeforeTest: Setup done
+19990 [main] INFO  14 Jun 2019 16:13:34 VerifyProductTest  - Device version: 9
+19990 [main] INFO  14 Jun 2019 16:13:34 VerifyProductTest  - Reset APK: false
+19991 [main] INFO  14 Jun 2019 16:13:34 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+19991 [main] INFO  14 Jun 2019 16:13:34 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+19991 [main] INFO  14 Jun 2019 16:13:34 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+19991 [main] INFO  14 Jun 2019 16:13:34 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+99018 [main] INFO  14 Jun 2019 16:14:53 VerifyProductTest  - Running AfterTest
+21652 [main] INFO  14 Jun 2019 16:15:54 VerifyProductTest  - Adroid Capabilities set
+21653 [main] INFO  14 Jun 2019 16:15:54 VerifyProductTest  - @BeforeTest: Setup done
+21653 [main] INFO  14 Jun 2019 16:15:54 VerifyProductTest  - Device version: 9
+21653 [main] INFO  14 Jun 2019 16:15:54 VerifyProductTest  - Reset APK: false
+21653 [main] INFO  14 Jun 2019 16:15:54 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21654 [main] INFO  14 Jun 2019 16:15:54 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21654 [main] INFO  14 Jun 2019 16:15:54 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+21654 [main] INFO  14 Jun 2019 16:15:54 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+100161 [main] INFO  14 Jun 2019 16:17:12 VerifyProductTest  - Running AfterTest
+20182 [main] INFO  14 Jun 2019 16:17:43 VerifyProductTest  - Adroid Capabilities set
+20184 [main] INFO  14 Jun 2019 16:17:43 VerifyProductTest  - @BeforeTest: Setup done
+20184 [main] INFO  14 Jun 2019 16:17:43 VerifyProductTest  - Device version: 9
+20184 [main] INFO  14 Jun 2019 16:17:43 VerifyProductTest  - Reset APK: false
+20184 [main] INFO  14 Jun 2019 16:17:43 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+20185 [main] INFO  14 Jun 2019 16:17:43 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+20185 [main] INFO  14 Jun 2019 16:17:43 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+20185 [main] INFO  14 Jun 2019 16:17:43 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+95958 [main] INFO  14 Jun 2019 16:18:59 VerifyProductTest  - Running AfterTest
+22405 [main] INFO  14 Jun 2019 16:20:44 VerifyProductTest  - Adroid Capabilities set
+22406 [main] INFO  14 Jun 2019 16:20:44 VerifyProductTest  - @BeforeTest: Setup done
+22406 [main] INFO  14 Jun 2019 16:20:44 VerifyProductTest  - Device version: 9
+22406 [main] INFO  14 Jun 2019 16:20:44 VerifyProductTest  - Reset APK: false
+22407 [main] INFO  14 Jun 2019 16:20:44 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+22407 [main] INFO  14 Jun 2019 16:20:44 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+22407 [main] INFO  14 Jun 2019 16:20:44 PropertyFileRead  - File Path-/Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+22407 [main] INFO  14 Jun 2019 16:20:44 PropertyFileRead  - Property File - /Users/santosh.kumar/Desktop/Farmrise_Interview/eBayAutomation/src/eBay/properties/userDetails.properties
+108531 [main] INFO  14 Jun 2019 16:22:10 VerifyProductTest  - Running AfterTest
+35945 [main] INFO  24 Jul 2020 13:37:40 VerifyProductTest  - @BeforeTest: Setup failed
+36996 [main] INFO  24 Jul 2020 13:37:41 VerifyProductTest  - Running AfterTest
+26867 [main] INFO  24 Jul 2020 13:40:05 VerifyProductTest  - @BeforeTest: Setup failed
+27908 [main] INFO  24 Jul 2020 13:40:06 VerifyProductTest  - Running AfterTest
+26812 [main] INFO  24 Jul 2020 13:41:57 VerifyProductTest  - Adroid Capabilities set
+26814 [main] INFO  24 Jul 2020 13:41:57 VerifyProductTest  - @BeforeTest: Setup done
+26814 [main] INFO  24 Jul 2020 13:41:57 VerifyProductTest  - Device version: 10
+26814 [main] INFO  24 Jul 2020 13:41:57 VerifyProductTest  - Reset APK: false
+26815 [main] INFO  24 Jul 2020 13:41:57 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26815 [main] INFO  24 Jul 2020 13:41:57 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26815 [main] INFO  24 Jul 2020 13:41:57 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26815 [main] INFO  24 Jul 2020 13:41:57 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+41179 [main] INFO  24 Jul 2020 13:42:12 VerifyProductTest  - Running AfterTest
+26533 [main] INFO  24 Jul 2020 13:45:14 VerifyProductTest  - Adroid Capabilities set
+26534 [main] INFO  24 Jul 2020 13:45:14 VerifyProductTest  - @BeforeTest: Setup done
+26535 [main] INFO  24 Jul 2020 13:45:14 VerifyProductTest  - Device version: 10
+26535 [main] INFO  24 Jul 2020 13:45:14 VerifyProductTest  - Reset APK: false
+26535 [main] INFO  24 Jul 2020 13:45:14 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26536 [main] INFO  24 Jul 2020 13:45:14 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26536 [main] INFO  24 Jul 2020 13:45:14 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26536 [main] INFO  24 Jul 2020 13:45:14 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28122 [main] INFO  24 Jul 2020 13:45:15 VerifyProductTest  - Running AfterTest
+27722 [main] INFO  24 Jul 2020 13:47:56 VerifyProductTest  - Adroid Capabilities set
+27724 [main] INFO  24 Jul 2020 13:47:56 VerifyProductTest  - @BeforeTest: Setup done
+27724 [main] INFO  24 Jul 2020 13:47:56 VerifyProductTest  - Device version: 10
+27725 [main] INFO  24 Jul 2020 13:47:56 VerifyProductTest  - Reset APK: false
+27726 [main] INFO  24 Jul 2020 13:47:56 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27726 [main] INFO  24 Jul 2020 13:47:56 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27726 [main] INFO  24 Jul 2020 13:47:56 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27727 [main] INFO  24 Jul 2020 13:47:56 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+29898 [main] INFO  24 Jul 2020 13:47:58 VerifyProductTest  - Running AfterTest
+33840 [main] INFO  24 Jul 2020 14:06:46 VerifyProductTest  - Adroid Capabilities set
+33840 [main] INFO  24 Jul 2020 14:06:46 VerifyProductTest  - @BeforeTest: Setup done
+33840 [main] INFO  24 Jul 2020 14:06:46 VerifyProductTest  - Device version: 10
+33840 [main] INFO  24 Jul 2020 14:06:46 VerifyProductTest  - Reset APK: false
+33840 [main] INFO  24 Jul 2020 14:06:46 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33840 [main] INFO  24 Jul 2020 14:06:46 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+33840 [main] INFO  24 Jul 2020 14:06:46 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33840 [main] INFO  24 Jul 2020 14:06:46 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+31518 [main] INFO  24 Jul 2020 14:12:47 VerifyProductTest  - Adroid Capabilities set
+31519 [main] INFO  24 Jul 2020 14:12:47 VerifyProductTest  - @BeforeTest: Setup done
+31519 [main] INFO  24 Jul 2020 14:12:47 VerifyProductTest  - Device version: 10
+31519 [main] INFO  24 Jul 2020 14:12:47 VerifyProductTest  - Reset APK: false
+31520 [main] INFO  24 Jul 2020 14:12:47 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+31520 [main] INFO  24 Jul 2020 14:12:47 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+31520 [main] INFO  24 Jul 2020 14:12:47 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+31520 [main] INFO  24 Jul 2020 14:12:47 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26115 [main] INFO  24 Jul 2020 14:14:10 VerifyProductTest  - Adroid Capabilities set
+26116 [main] INFO  24 Jul 2020 14:14:10 VerifyProductTest  - @BeforeTest: Setup done
+26116 [main] INFO  24 Jul 2020 14:14:10 VerifyProductTest  - Device version: 10
+26116 [main] INFO  24 Jul 2020 14:14:10 VerifyProductTest  - Reset APK: false
+26117 [main] INFO  24 Jul 2020 14:14:10 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26117 [main] INFO  24 Jul 2020 14:14:10 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26118 [main] INFO  24 Jul 2020 14:14:10 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26118 [main] INFO  24 Jul 2020 14:14:10 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+181032 [main] INFO  24 Jul 2020 14:16:45 VerifyProductTest  - Running AfterTest
+28909 [main] INFO  24 Jul 2020 14:22:35 VerifyProductTest  - Adroid Capabilities set
+28911 [main] INFO  24 Jul 2020 14:22:35 VerifyProductTest  - @BeforeTest: Setup done
+28911 [main] INFO  24 Jul 2020 14:22:35 VerifyProductTest  - Device version: 10
+28911 [main] INFO  24 Jul 2020 14:22:35 VerifyProductTest  - Reset APK: false
+28911 [main] INFO  24 Jul 2020 14:22:35 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28912 [main] INFO  24 Jul 2020 14:22:35 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28912 [main] INFO  24 Jul 2020 14:22:35 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28912 [main] INFO  24 Jul 2020 14:22:35 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+162428 [main] INFO  24 Jul 2020 14:24:49 VerifyProductTest  - Running AfterTest
+28198 [main] INFO  24 Jul 2020 14:42:53 VerifyProductTest  - Adroid Capabilities set
+28200 [main] INFO  24 Jul 2020 14:42:53 VerifyProductTest  - @BeforeTest: Setup done
+28200 [main] INFO  24 Jul 2020 14:42:53 VerifyProductTest  - Device version: 10
+28200 [main] INFO  24 Jul 2020 14:42:53 VerifyProductTest  - Reset APK: false
+28200 [main] INFO  24 Jul 2020 14:42:53 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28200 [main] INFO  24 Jul 2020 14:42:53 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28201 [main] INFO  24 Jul 2020 14:42:53 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28201 [main] INFO  24 Jul 2020 14:42:53 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+91749 [main] INFO  24 Jul 2020 14:43:57 VerifyProductTest  - Running AfterTest
+27905 [main] INFO  24 Jul 2020 14:47:21 VerifyProductTest  - Adroid Capabilities set
+27906 [main] INFO  24 Jul 2020 14:47:21 VerifyProductTest  - @BeforeTest: Setup done
+27907 [main] INFO  24 Jul 2020 14:47:21 VerifyProductTest  - Device version: 10
+27907 [main] INFO  24 Jul 2020 14:47:21 VerifyProductTest  - Reset APK: false
+27907 [main] INFO  24 Jul 2020 14:47:21 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27907 [main] INFO  24 Jul 2020 14:47:21 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27908 [main] INFO  24 Jul 2020 14:47:21 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27908 [main] INFO  24 Jul 2020 14:47:21 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+90586 [main] INFO  24 Jul 2020 14:48:24 VerifyProductTest  - Running AfterTest
+27890 [main] INFO  24 Jul 2020 14:50:03 VerifyProductTest  - Adroid Capabilities set
+27892 [main] INFO  24 Jul 2020 14:50:03 VerifyProductTest  - @BeforeTest: Setup done
+27893 [main] INFO  24 Jul 2020 14:50:03 VerifyProductTest  - Device version: 10
+27893 [main] INFO  24 Jul 2020 14:50:03 VerifyProductTest  - Reset APK: false
+27894 [main] INFO  24 Jul 2020 14:50:03 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27894 [main] INFO  24 Jul 2020 14:50:03 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27895 [main] INFO  24 Jul 2020 14:50:03 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27895 [main] INFO  24 Jul 2020 14:50:03 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+90996 [main] INFO  24 Jul 2020 14:51:06 VerifyProductTest  - Running AfterTest
+27194 [main] INFO  24 Jul 2020 14:53:38 VerifyProductTest  - Adroid Capabilities set
+27197 [main] INFO  24 Jul 2020 14:53:38 VerifyProductTest  - @BeforeTest: Setup done
+27197 [main] INFO  24 Jul 2020 14:53:38 VerifyProductTest  - Device version: 10
+27197 [main] INFO  24 Jul 2020 14:53:38 VerifyProductTest  - Reset APK: false
+27198 [main] INFO  24 Jul 2020 14:53:38 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27198 [main] INFO  24 Jul 2020 14:53:38 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27199 [main] INFO  24 Jul 2020 14:53:38 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27199 [main] INFO  24 Jul 2020 14:53:38 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+90248 [main] INFO  24 Jul 2020 14:54:41 VerifyProductTest  - Running AfterTest
+27864 [main] INFO  24 Jul 2020 15:01:55 VerifyProductTest  - Adroid Capabilities set
+27866 [main] INFO  24 Jul 2020 15:01:55 VerifyProductTest  - @BeforeTest: Setup done
+27866 [main] INFO  24 Jul 2020 15:01:55 VerifyProductTest  - Device version: 10
+27867 [main] INFO  24 Jul 2020 15:01:55 VerifyProductTest  - Reset APK: false
+27867 [main] INFO  24 Jul 2020 15:01:55 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27867 [main] INFO  24 Jul 2020 15:01:55 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27867 [main] INFO  24 Jul 2020 15:01:55 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27868 [main] INFO  24 Jul 2020 15:01:55 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+91148 [main] INFO  24 Jul 2020 15:02:58 VerifyProductTest  - Running AfterTest
+35007 [main] INFO  24 Jul 2020 15:12:24 VerifyProductTest  - Adroid Capabilities set
+35009 [main] INFO  24 Jul 2020 15:12:24 VerifyProductTest  - @BeforeTest: Setup done
+35009 [main] INFO  24 Jul 2020 15:12:24 VerifyProductTest  - Device version: 10
+35010 [main] INFO  24 Jul 2020 15:12:24 VerifyProductTest  - Reset APK: false
+35010 [main] INFO  24 Jul 2020 15:12:24 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+35010 [main] INFO  24 Jul 2020 15:12:24 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+35011 [main] INFO  24 Jul 2020 15:12:24 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+35011 [main] INFO  24 Jul 2020 15:12:24 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+98032 [main] INFO  24 Jul 2020 15:13:27 VerifyProductTest  - Running AfterTest
+27611 [main] INFO  24 Jul 2020 15:14:59 VerifyProductTest  - Adroid Capabilities set
+27614 [main] INFO  24 Jul 2020 15:14:59 VerifyProductTest  - @BeforeTest: Setup done
+27614 [main] INFO  24 Jul 2020 15:14:59 VerifyProductTest  - Device version: 10
+27614 [main] INFO  24 Jul 2020 15:14:59 VerifyProductTest  - Reset APK: false
+27614 [main] INFO  24 Jul 2020 15:14:59 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27614 [main] INFO  24 Jul 2020 15:14:59 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27615 [main] INFO  24 Jul 2020 15:14:59 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27615 [main] INFO  24 Jul 2020 15:14:59 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+90311 [main] INFO  24 Jul 2020 15:16:01 VerifyProductTest  - Running AfterTest
+35651 [main] INFO  24 Jul 2020 16:07:28 VerifyProductTest  - Adroid Capabilities set
+35652 [main] INFO  24 Jul 2020 16:07:28 VerifyProductTest  - @BeforeTest: Setup done
+35652 [main] INFO  24 Jul 2020 16:07:28 VerifyProductTest  - Device version: 10
+35652 [main] INFO  24 Jul 2020 16:07:28 VerifyProductTest  - Reset APK: false
+35653 [main] INFO  24 Jul 2020 16:07:28 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+35653 [main] INFO  24 Jul 2020 16:07:28 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+35653 [main] INFO  24 Jul 2020 16:07:28 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+35653 [main] INFO  24 Jul 2020 16:07:28 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28011 [main] INFO  24 Jul 2020 16:08:29 VerifyProductTest  - Adroid Capabilities set
+28012 [main] INFO  24 Jul 2020 16:08:29 VerifyProductTest  - @BeforeTest: Setup done
+28013 [main] INFO  24 Jul 2020 16:08:29 VerifyProductTest  - Device version: 10
+28013 [main] INFO  24 Jul 2020 16:08:29 VerifyProductTest  - Reset APK: false
+28013 [main] INFO  24 Jul 2020 16:08:29 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28013 [main] INFO  24 Jul 2020 16:08:29 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28014 [main] INFO  24 Jul 2020 16:08:29 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28014 [main] INFO  24 Jul 2020 16:08:29 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+64981 [main] INFO  24 Jul 2020 16:09:06 VerifyProductTest  - Running AfterTest
+28017 [main] INFO  24 Jul 2020 16:10:35 VerifyProductTest  - Adroid Capabilities set
+28018 [main] INFO  24 Jul 2020 16:10:35 VerifyProductTest  - @BeforeTest: Setup done
+28019 [main] INFO  24 Jul 2020 16:10:35 VerifyProductTest  - Device version: 10
+28019 [main] INFO  24 Jul 2020 16:10:35 VerifyProductTest  - Reset APK: false
+28019 [main] INFO  24 Jul 2020 16:10:35 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28019 [main] INFO  24 Jul 2020 16:10:35 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28020 [main] INFO  24 Jul 2020 16:10:35 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28020 [main] INFO  24 Jul 2020 16:10:35 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+70030 [main] INFO  24 Jul 2020 16:11:17 VerifyProductTest  - Running AfterTest
+28078 [main] INFO  24 Jul 2020 16:12:36 VerifyProductTest  - Adroid Capabilities set
+28081 [main] INFO  24 Jul 2020 16:12:36 VerifyProductTest  - @BeforeTest: Setup done
+28081 [main] INFO  24 Jul 2020 16:12:36 VerifyProductTest  - Device version: 10
+28081 [main] INFO  24 Jul 2020 16:12:36 VerifyProductTest  - Reset APK: false
+28082 [main] INFO  24 Jul 2020 16:12:36 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28082 [main] INFO  24 Jul 2020 16:12:36 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28083 [main] INFO  24 Jul 2020 16:12:36 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28083 [main] INFO  24 Jul 2020 16:12:36 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+64888 [main] INFO  24 Jul 2020 16:13:13 VerifyProductTest  - Running AfterTest
+28302 [main] INFO  24 Jul 2020 16:14:16 VerifyProductTest  - Adroid Capabilities set
+28304 [main] INFO  24 Jul 2020 16:14:16 VerifyProductTest  - @BeforeTest: Setup done
+28304 [main] INFO  24 Jul 2020 16:14:16 VerifyProductTest  - Device version: 10
+28304 [main] INFO  24 Jul 2020 16:14:16 VerifyProductTest  - Reset APK: false
+28304 [main] INFO  24 Jul 2020 16:14:16 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28305 [main] INFO  24 Jul 2020 16:14:16 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28305 [main] INFO  24 Jul 2020 16:14:16 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28305 [main] INFO  24 Jul 2020 16:14:16 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+70199 [main] INFO  24 Jul 2020 16:14:58 VerifyProductTest  - Running AfterTest
+28139 [main] INFO  24 Jul 2020 16:16:26 VerifyProductTest  - Adroid Capabilities set
+28142 [main] INFO  24 Jul 2020 16:16:26 VerifyProductTest  - @BeforeTest: Setup done
+28142 [main] INFO  24 Jul 2020 16:16:26 VerifyProductTest  - Device version: 10
+28142 [main] INFO  24 Jul 2020 16:16:26 VerifyProductTest  - Reset APK: false
+28143 [main] INFO  24 Jul 2020 16:16:26 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28143 [main] INFO  24 Jul 2020 16:16:26 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28143 [main] INFO  24 Jul 2020 16:16:26 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28144 [main] INFO  24 Jul 2020 16:16:26 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+65830 [main] INFO  24 Jul 2020 16:17:03 VerifyProductTest  - Running AfterTest
+28224 [main] INFO  24 Jul 2020 16:18:23 VerifyProductTest  - Adroid Capabilities set
+28225 [main] INFO  24 Jul 2020 16:18:23 VerifyProductTest  - @BeforeTest: Setup done
+28225 [main] INFO  24 Jul 2020 16:18:23 VerifyProductTest  - Device version: 10
+28225 [main] INFO  24 Jul 2020 16:18:23 VerifyProductTest  - Reset APK: false
+28226 [main] INFO  24 Jul 2020 16:18:23 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28226 [main] INFO  24 Jul 2020 16:18:23 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28226 [main] INFO  24 Jul 2020 16:18:23 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28226 [main] INFO  24 Jul 2020 16:18:23 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+70503 [main] INFO  24 Jul 2020 16:19:05 VerifyProductTest  - Running AfterTest
+27954 [main] INFO  24 Jul 2020 16:25:55 VerifyProductTest  - Adroid Capabilities set
+27955 [main] INFO  24 Jul 2020 16:25:55 VerifyProductTest  - @BeforeTest: Setup done
+27956 [main] INFO  24 Jul 2020 16:25:55 VerifyProductTest  - Device version: 10
+27956 [main] INFO  24 Jul 2020 16:25:55 VerifyProductTest  - Reset APK: false
+27956 [main] INFO  24 Jul 2020 16:25:55 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27956 [main] INFO  24 Jul 2020 16:25:55 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27957 [main] INFO  24 Jul 2020 16:25:55 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27957 [main] INFO  24 Jul 2020 16:25:55 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+65272 [main] INFO  24 Jul 2020 16:26:32 VerifyProductTest  - Running AfterTest
+33638 [main] INFO  24 Jul 2020 16:35:19 VerifyProductTest  - Adroid Capabilities set
+33641 [main] INFO  24 Jul 2020 16:35:19 VerifyProductTest  - @BeforeTest: Setup done
+33641 [main] INFO  24 Jul 2020 16:35:19 VerifyProductTest  - Device version: 10
+33641 [main] INFO  24 Jul 2020 16:35:19 VerifyProductTest  - Reset APK: false
+33642 [main] INFO  24 Jul 2020 16:35:19 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33642 [main] INFO  24 Jul 2020 16:35:19 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+33643 [main] INFO  24 Jul 2020 16:35:19 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33643 [main] INFO  24 Jul 2020 16:35:19 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27739 [main] INFO  24 Jul 2020 16:37:37 VerifyProductTest  - Adroid Capabilities set
+27743 [main] INFO  24 Jul 2020 16:37:37 VerifyProductTest  - @BeforeTest: Setup done
+27743 [main] INFO  24 Jul 2020 16:37:37 VerifyProductTest  - Device version: 10
+27743 [main] INFO  24 Jul 2020 16:37:37 VerifyProductTest  - Reset APK: false
+27744 [main] INFO  24 Jul 2020 16:37:37 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27744 [main] INFO  24 Jul 2020 16:37:37 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27745 [main] INFO  24 Jul 2020 16:37:37 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27746 [main] INFO  24 Jul 2020 16:37:37 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+39348 [main] INFO  24 Jul 2020 16:37:49 VerifyProductTest  - Running AfterTest
+26929 [main] INFO  24 Jul 2020 16:39:06 VerifyProductTest  - Adroid Capabilities set
+26931 [main] INFO  24 Jul 2020 16:39:06 VerifyProductTest  - @BeforeTest: Setup done
+26931 [main] INFO  24 Jul 2020 16:39:06 VerifyProductTest  - Device version: 10
+26931 [main] INFO  24 Jul 2020 16:39:06 VerifyProductTest  - Reset APK: false
+26931 [main] INFO  24 Jul 2020 16:39:06 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26932 [main] INFO  24 Jul 2020 16:39:06 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26932 [main] INFO  24 Jul 2020 16:39:06 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26932 [main] INFO  24 Jul 2020 16:39:06 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+103178 [main] INFO  24 Jul 2020 16:40:23 VerifyProductTest  - Running AfterTest
+40990 [main] INFO  24 Jul 2020 16:54:37 VerifyProductTest  - Adroid Capabilities set
+40991 [main] INFO  24 Jul 2020 16:54:37 VerifyProductTest  - @BeforeTest: Setup done
+40992 [main] INFO  24 Jul 2020 16:54:37 VerifyProductTest  - Device version: 10
+40992 [main] INFO  24 Jul 2020 16:54:37 VerifyProductTest  - Reset APK: false
+40992 [main] INFO  24 Jul 2020 16:54:37 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+40992 [main] INFO  24 Jul 2020 16:54:37 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+40992 [main] INFO  24 Jul 2020 16:54:37 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+40993 [main] INFO  24 Jul 2020 16:54:37 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+85468 [main] INFO  24 Jul 2020 16:55:21 VerifyProductTest  - Running AfterTest
+33554 [main] INFO  24 Jul 2020 17:02:29 VerifyProductTest  - Adroid Capabilities set
+33556 [main] INFO  24 Jul 2020 17:02:29 VerifyProductTest  - @BeforeTest: Setup done
+33556 [main] INFO  24 Jul 2020 17:02:29 VerifyProductTest  - Device version: 10
+33557 [main] INFO  24 Jul 2020 17:02:29 VerifyProductTest  - Reset APK: false
+33557 [main] INFO  24 Jul 2020 17:02:29 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33558 [main] INFO  24 Jul 2020 17:02:29 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+33559 [main] INFO  24 Jul 2020 17:02:29 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33559 [main] INFO  24 Jul 2020 17:02:29 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+50216 [main] INFO  24 Jul 2020 17:02:46 VerifyProductTest  - Running AfterTest
+33298 [main] INFO  24 Jul 2020 17:06:46 VerifyProductTest  - Adroid Capabilities set
+33300 [main] INFO  24 Jul 2020 17:06:46 VerifyProductTest  - @BeforeTest: Setup done
+33301 [main] INFO  24 Jul 2020 17:06:46 VerifyProductTest  - Device version: 10
+33301 [main] INFO  24 Jul 2020 17:06:46 VerifyProductTest  - Reset APK: false
+33302 [main] INFO  24 Jul 2020 17:06:46 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33302 [main] INFO  24 Jul 2020 17:06:46 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+33303 [main] INFO  24 Jul 2020 17:06:46 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33303 [main] INFO  24 Jul 2020 17:06:46 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+50096 [main] INFO  24 Jul 2020 17:07:03 VerifyProductTest  - Running AfterTest
+26969 [main] INFO  24 Jul 2020 17:11:36 VerifyProductTest  - Adroid Capabilities set
+26970 [main] INFO  24 Jul 2020 17:11:36 VerifyProductTest  - @BeforeTest: Setup done
+26971 [main] INFO  24 Jul 2020 17:11:36 VerifyProductTest  - Device version: 10
+26971 [main] INFO  24 Jul 2020 17:11:36 VerifyProductTest  - Reset APK: false
+26971 [main] INFO  24 Jul 2020 17:11:36 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26972 [main] INFO  24 Jul 2020 17:11:36 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26972 [main] INFO  24 Jul 2020 17:11:36 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26972 [main] INFO  24 Jul 2020 17:11:36 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+48774 [main] INFO  24 Jul 2020 17:11:58 VerifyProductTest  - Running AfterTest
+37317 [main] INFO  24 Jul 2020 17:28:53 VerifyProductTest  - Adroid Capabilities set
+37318 [main] INFO  24 Jul 2020 17:28:53 VerifyProductTest  - @BeforeTest: Setup done
+37318 [main] INFO  24 Jul 2020 17:28:53 VerifyProductTest  - Device version: 10
+37319 [main] INFO  24 Jul 2020 17:28:53 VerifyProductTest  - Reset APK: false
+37319 [main] INFO  24 Jul 2020 17:28:53 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+37319 [main] INFO  24 Jul 2020 17:28:53 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+37320 [main] INFO  24 Jul 2020 17:28:53 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+37320 [main] INFO  24 Jul 2020 17:28:53 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+138425 [main] INFO  24 Jul 2020 17:30:34 VerifyProductTest  - Running AfterTest
+27983 [main] INFO  24 Jul 2020 17:31:34 VerifyProductTest  - Adroid Capabilities set
+27984 [main] INFO  24 Jul 2020 17:31:34 VerifyProductTest  - @BeforeTest: Setup done
+27986 [main] INFO  24 Jul 2020 17:31:34 VerifyProductTest  - Device version: 10
+27986 [main] INFO  24 Jul 2020 17:31:34 VerifyProductTest  - Reset APK: false
+27987 [main] INFO  24 Jul 2020 17:31:34 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27987 [main] INFO  24 Jul 2020 17:31:34 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27988 [main] INFO  24 Jul 2020 17:31:34 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27988 [main] INFO  24 Jul 2020 17:31:34 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+89029 [main] INFO  24 Jul 2020 17:32:35 VerifyProductTest  - Running AfterTest
+47401 [main] INFO  24 Jul 2020 17:52:42 VerifyProductTest  - Adroid Capabilities set
+47403 [main] INFO  24 Jul 2020 17:52:42 VerifyProductTest  - @BeforeTest: Setup done
+47403 [main] INFO  24 Jul 2020 17:52:42 VerifyProductTest  - Device version: 10
+47403 [main] INFO  24 Jul 2020 17:52:42 VerifyProductTest  - Reset APK: false
+47404 [main] INFO  24 Jul 2020 17:52:42 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+47404 [main] INFO  24 Jul 2020 17:52:42 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+47404 [main] INFO  24 Jul 2020 17:52:42 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+47404 [main] INFO  24 Jul 2020 17:52:42 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+123892 [main] INFO  24 Jul 2020 17:53:58 VerifyProductTest  - Running AfterTest
+33728 [main] INFO  24 Jul 2020 18:00:12 VerifyProductTest  - Adroid Capabilities set
+33731 [main] INFO  24 Jul 2020 18:00:12 VerifyProductTest  - @BeforeTest: Setup done
+33731 [main] INFO  24 Jul 2020 18:00:12 VerifyProductTest  - Device version: 10
+33734 [main] INFO  24 Jul 2020 18:00:12 VerifyProductTest  - Reset APK: false
+33735 [main] INFO  24 Jul 2020 18:00:12 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33735 [main] INFO  24 Jul 2020 18:00:12 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+33739 [main] INFO  24 Jul 2020 18:00:12 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33739 [main] INFO  24 Jul 2020 18:00:12 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+33893 [main] INFO  24 Jul 2020 18:02:31 VerifyProductTest  - Adroid Capabilities set
+33894 [main] INFO  24 Jul 2020 18:02:31 VerifyProductTest  - @BeforeTest: Setup done
+33894 [main] INFO  24 Jul 2020 18:02:31 VerifyProductTest  - Device version: 10
+33895 [main] INFO  24 Jul 2020 18:02:31 VerifyProductTest  - Reset APK: false
+33895 [main] INFO  24 Jul 2020 18:02:31 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33895 [main] INFO  24 Jul 2020 18:02:31 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+33896 [main] INFO  24 Jul 2020 18:02:31 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33896 [main] INFO  24 Jul 2020 18:02:31 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+93889 [main] INFO  24 Jul 2020 18:03:31 VerifyProductTest  - Running AfterTest
+33850 [main] INFO  24 Jul 2020 18:06:33 VerifyProductTest  - Adroid Capabilities set
+33852 [main] INFO  24 Jul 2020 18:06:33 VerifyProductTest  - @BeforeTest: Setup done
+33853 [main] INFO  24 Jul 2020 18:06:33 VerifyProductTest  - Device version: 10
+33853 [main] INFO  24 Jul 2020 18:06:33 VerifyProductTest  - Reset APK: false
+33854 [main] INFO  24 Jul 2020 18:06:33 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33855 [main] INFO  24 Jul 2020 18:06:33 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+33857 [main] INFO  24 Jul 2020 18:06:33 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+33857 [main] INFO  24 Jul 2020 18:06:33 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26214 [main] INFO  24 Jul 2020 18:08:03 VerifyProductTest  - Adroid Capabilities set
+26214 [main] INFO  24 Jul 2020 18:08:03 VerifyProductTest  - @BeforeTest: Setup done
+26214 [main] INFO  24 Jul 2020 18:08:03 VerifyProductTest  - Device version: 10
+26214 [main] INFO  24 Jul 2020 18:08:03 VerifyProductTest  - Reset APK: false
+26214 [main] INFO  24 Jul 2020 18:08:03 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26214 [main] INFO  24 Jul 2020 18:08:03 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26214 [main] INFO  24 Jul 2020 18:08:03 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26214 [main] INFO  24 Jul 2020 18:08:03 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+62856 [main] INFO  24 Jul 2020 18:08:40 VerifyProductTest  - Running AfterTest
+26487 [main] INFO  24 Jul 2020 18:11:30 VerifyProductTest  - Adroid Capabilities set
+26487 [main] INFO  24 Jul 2020 18:11:30 VerifyProductTest  - @BeforeTest: Setup done
+26487 [main] INFO  24 Jul 2020 18:11:30 VerifyProductTest  - Device version: 10
+26487 [main] INFO  24 Jul 2020 18:11:30 VerifyProductTest  - Reset APK: false
+26487 [main] INFO  24 Jul 2020 18:11:30 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26487 [main] INFO  24 Jul 2020 18:11:30 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26487 [main] INFO  24 Jul 2020 18:11:30 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26487 [main] INFO  24 Jul 2020 18:11:30 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+65631 [main] INFO  24 Jul 2020 18:12:09 VerifyProductTest  - Running AfterTest
+26238 [main] INFO  24 Jul 2020 18:13:21 VerifyProductTest  - Adroid Capabilities set
+26238 [main] INFO  24 Jul 2020 18:13:21 VerifyProductTest  - @BeforeTest: Setup done
+26238 [main] INFO  24 Jul 2020 18:13:21 VerifyProductTest  - Device version: 10
+26238 [main] INFO  24 Jul 2020 18:13:21 VerifyProductTest  - Reset APK: false
+26238 [main] INFO  24 Jul 2020 18:13:21 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26238 [main] INFO  24 Jul 2020 18:13:21 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26238 [main] INFO  24 Jul 2020 18:13:21 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26238 [main] INFO  24 Jul 2020 18:13:21 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+68252 [main] INFO  24 Jul 2020 18:14:03 VerifyProductTest  - Running AfterTest
+26204 [main] INFO  24 Jul 2020 18:21:24 VerifyProductTest  - Adroid Capabilities set
+26204 [main] INFO  24 Jul 2020 18:21:24 VerifyProductTest  - @BeforeTest: Setup done
+26204 [main] INFO  24 Jul 2020 18:21:24 VerifyProductTest  - Device version: 10
+26204 [main] INFO  24 Jul 2020 18:21:24 VerifyProductTest  - Reset APK: false
+26204 [main] INFO  24 Jul 2020 18:21:24 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26204 [main] INFO  24 Jul 2020 18:21:24 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26204 [main] INFO  24 Jul 2020 18:21:24 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26204 [main] INFO  24 Jul 2020 18:21:24 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+69560 [main] INFO  24 Jul 2020 18:22:07 VerifyProductTest  - Running AfterTest
+25213 [main] INFO  24 Jul 2020 18:24:27 VerifyProductTest  - Adroid Capabilities set
+25213 [main] INFO  24 Jul 2020 18:24:27 VerifyProductTest  - @BeforeTest: Setup done
+25213 [main] INFO  24 Jul 2020 18:24:27 VerifyProductTest  - Device version: 10
+25213 [main] INFO  24 Jul 2020 18:24:27 VerifyProductTest  - Reset APK: false
+25213 [main] INFO  24 Jul 2020 18:24:27 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+25213 [main] INFO  24 Jul 2020 18:24:27 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+25213 [main] INFO  24 Jul 2020 18:24:27 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+25213 [main] INFO  24 Jul 2020 18:24:27 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+71059 [main] INFO  24 Jul 2020 18:25:13 VerifyProductTest  - Running AfterTest
+26247 [main] INFO  24 Jul 2020 18:26:50 VerifyProductTest  - Adroid Capabilities set
+26247 [main] INFO  24 Jul 2020 18:26:50 VerifyProductTest  - @BeforeTest: Setup done
+26247 [main] INFO  24 Jul 2020 18:26:50 VerifyProductTest  - Device version: 10
+26247 [main] INFO  24 Jul 2020 18:26:50 VerifyProductTest  - Reset APK: false
+26247 [main] INFO  24 Jul 2020 18:26:50 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26247 [main] INFO  24 Jul 2020 18:26:50 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26247 [main] INFO  24 Jul 2020 18:26:50 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26247 [main] INFO  24 Jul 2020 18:26:50 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+76801 [main] INFO  24 Jul 2020 18:27:40 VerifyProductTest  - Running AfterTest
+26060 [main] INFO  24 Jul 2020 18:29:09 VerifyProductTest  - Adroid Capabilities set
+26060 [main] INFO  24 Jul 2020 18:29:09 VerifyProductTest  - @BeforeTest: Setup done
+26060 [main] INFO  24 Jul 2020 18:29:09 VerifyProductTest  - Device version: 10
+26060 [main] INFO  24 Jul 2020 18:29:09 VerifyProductTest  - Reset APK: false
+26060 [main] INFO  24 Jul 2020 18:29:09 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26060 [main] INFO  24 Jul 2020 18:29:09 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26060 [main] INFO  24 Jul 2020 18:29:09 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26060 [main] INFO  24 Jul 2020 18:29:09 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+77262 [main] INFO  24 Jul 2020 18:30:00 VerifyProductTest  - Running AfterTest
+26301 [main] INFO  24 Jul 2020 19:10:04 VerifyProductTest  - Adroid Capabilities set
+26301 [main] INFO  24 Jul 2020 19:10:04 VerifyProductTest  - @BeforeTest: Setup done
+26301 [main] INFO  24 Jul 2020 19:10:04 VerifyProductTest  - Device version: 10
+26301 [main] INFO  24 Jul 2020 19:10:04 VerifyProductTest  - Reset APK: false
+26301 [main] INFO  24 Jul 2020 19:10:04 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26301 [main] INFO  24 Jul 2020 19:10:04 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26301 [main] INFO  24 Jul 2020 19:10:04 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26301 [main] INFO  24 Jul 2020 19:10:04 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+72466 [main] INFO  24 Jul 2020 19:10:51 VerifyProductTest  - Running AfterTest
+26089 [main] INFO  24 Jul 2020 19:11:55 VerifyProductTest  - Adroid Capabilities set
+26090 [main] INFO  24 Jul 2020 19:11:55 VerifyProductTest  - @BeforeTest: Setup done
+26091 [main] INFO  24 Jul 2020 19:11:55 VerifyProductTest  - Device version: 10
+26091 [main] INFO  24 Jul 2020 19:11:55 VerifyProductTest  - Reset APK: false
+26091 [main] INFO  24 Jul 2020 19:11:55 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26091 [main] INFO  24 Jul 2020 19:11:55 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26092 [main] INFO  24 Jul 2020 19:11:55 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26092 [main] INFO  24 Jul 2020 19:11:55 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+71957 [main] INFO  24 Jul 2020 19:12:41 VerifyProductTest  - Running AfterTest
+26062 [main] INFO  24 Jul 2020 19:14:39 VerifyProductTest  - Adroid Capabilities set
+26063 [main] INFO  24 Jul 2020 19:14:39 VerifyProductTest  - @BeforeTest: Setup done
+26064 [main] INFO  24 Jul 2020 19:14:39 VerifyProductTest  - Device version: 10
+26064 [main] INFO  24 Jul 2020 19:14:39 VerifyProductTest  - Reset APK: false
+26064 [main] INFO  24 Jul 2020 19:14:39 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26064 [main] INFO  24 Jul 2020 19:14:39 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26065 [main] INFO  24 Jul 2020 19:14:39 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26065 [main] INFO  24 Jul 2020 19:14:39 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+69051 [main] INFO  24 Jul 2020 19:15:22 VerifyProductTest  - Running AfterTest
+26016 [main] INFO  24 Jul 2020 19:16:26 VerifyProductTest  - Adroid Capabilities set
+26017 [main] INFO  24 Jul 2020 19:16:26 VerifyProductTest  - @BeforeTest: Setup done
+26018 [main] INFO  24 Jul 2020 19:16:27 VerifyProductTest  - Device version: 10
+26018 [main] INFO  24 Jul 2020 19:16:27 VerifyProductTest  - Reset APK: false
+26018 [main] INFO  24 Jul 2020 19:16:27 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26018 [main] INFO  24 Jul 2020 19:16:27 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26018 [main] INFO  24 Jul 2020 19:16:27 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26019 [main] INFO  24 Jul 2020 19:16:27 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+83681 [main] INFO  24 Jul 2020 19:17:24 VerifyProductTest  - Running AfterTest
+26120 [main] INFO  24 Jul 2020 19:18:35 VerifyProductTest  - Adroid Capabilities set
+26121 [main] INFO  24 Jul 2020 19:18:35 VerifyProductTest  - @BeforeTest: Setup done
+26121 [main] INFO  24 Jul 2020 19:18:35 VerifyProductTest  - Device version: 10
+26121 [main] INFO  24 Jul 2020 19:18:35 VerifyProductTest  - Reset APK: false
+26122 [main] INFO  24 Jul 2020 19:18:35 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26122 [main] INFO  24 Jul 2020 19:18:35 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+26122 [main] INFO  24 Jul 2020 19:18:35 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+26122 [main] INFO  24 Jul 2020 19:18:35 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+72559 [main] INFO  24 Jul 2020 19:19:22 VerifyProductTest  - Running AfterTest
+40270 [main] INFO  24 Jul 2020 21:06:54 VerifyProductTest  - @BeforeTest: Setup failed
+38362 [main] INFO  24 Jul 2020 21:08:17 VerifyProductTest  - Adroid Capabilities set
+38364 [main] INFO  24 Jul 2020 21:08:17 VerifyProductTest  - @BeforeTest: Setup done
+38364 [main] INFO  24 Jul 2020 21:08:17 VerifyProductTest  - Device version: 10
+38364 [main] INFO  24 Jul 2020 21:08:17 VerifyProductTest  - Reset APK: false
+38365 [main] INFO  24 Jul 2020 21:08:17 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+38365 [main] INFO  24 Jul 2020 21:08:17 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+38365 [main] INFO  24 Jul 2020 21:08:17 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+38366 [main] INFO  24 Jul 2020 21:08:17 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+88826 [main] INFO  24 Jul 2020 21:09:07 VerifyProductTest  - Running AfterTest
+41954 [main] INFO  24 Jul 2020 21:59:35 VerifyProductTest  - Adroid Capabilities set
+41956 [main] INFO  24 Jul 2020 21:59:35 VerifyProductTest  - @BeforeTest: Setup done
+41957 [main] INFO  24 Jul 2020 21:59:35 VerifyProductTest  - Device version: 10
+41957 [main] INFO  24 Jul 2020 21:59:35 VerifyProductTest  - Reset APK: false
+41957 [main] INFO  24 Jul 2020 21:59:35 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+41957 [main] INFO  24 Jul 2020 21:59:35 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+41958 [main] INFO  24 Jul 2020 21:59:35 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+41958 [main] INFO  24 Jul 2020 21:59:35 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28094 [main] INFO  24 Jul 2020 22:00:49 VerifyProductTest  - Adroid Capabilities set
+28095 [main] INFO  24 Jul 2020 22:00:49 VerifyProductTest  - @BeforeTest: Setup done
+28097 [main] INFO  24 Jul 2020 22:00:49 VerifyProductTest  - Device version: 10
+28097 [main] INFO  24 Jul 2020 22:00:49 VerifyProductTest  - Reset APK: false
+28098 [main] INFO  24 Jul 2020 22:00:49 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28098 [main] INFO  24 Jul 2020 22:00:49 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+28099 [main] INFO  24 Jul 2020 22:00:49 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+28099 [main] INFO  24 Jul 2020 22:00:49 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+170486 [main] INFO  24 Jul 2020 22:03:11 VerifyProductTest  - Running AfterTest
+27994 [main] INFO  24 Jul 2020 22:15:08 VerifyProductTest  - Adroid Capabilities set
+27995 [main] INFO  24 Jul 2020 22:15:08 VerifyProductTest  - @BeforeTest: Setup done
+27995 [main] INFO  24 Jul 2020 22:15:08 VerifyProductTest  - Device version: 10
+27995 [main] INFO  24 Jul 2020 22:15:08 VerifyProductTest  - Reset APK: false
+27995 [main] INFO  24 Jul 2020 22:15:08 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27996 [main] INFO  24 Jul 2020 22:15:08 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27996 [main] INFO  24 Jul 2020 22:15:08 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27996 [main] INFO  24 Jul 2020 22:15:08 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+222721 [main] INFO  24 Jul 2020 22:18:22 VerifyProductTest  - Running AfterTest
+27727 [main] INFO  24 Jul 2020 22:20:45 VerifyProductTest  - Adroid Capabilities set
+27729 [main] INFO  24 Jul 2020 22:20:45 VerifyProductTest  - @BeforeTest: Setup done
+27729 [main] INFO  24 Jul 2020 22:20:45 VerifyProductTest  - Device version: 10
+27729 [main] INFO  24 Jul 2020 22:20:45 VerifyProductTest  - Reset APK: false
+27729 [main] INFO  24 Jul 2020 22:20:45 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27730 [main] INFO  24 Jul 2020 22:20:45 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+27730 [main] INFO  24 Jul 2020 22:20:45 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+27730 [main] INFO  24 Jul 2020 22:20:45 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+130264 [main] INFO  24 Jul 2020 22:22:27 VerifyProductTest  - Running AfterTest
+40745 [main] INFO  24 Jul 2020 22:31:02 VerifyProductTest  - Adroid Capabilities set
+40747 [main] INFO  24 Jul 2020 22:31:02 VerifyProductTest  - @BeforeTest: Setup done
+40747 [main] INFO  24 Jul 2020 22:31:02 VerifyProductTest  - Device version: 10
+40747 [main] INFO  24 Jul 2020 22:31:02 VerifyProductTest  - Reset APK: false
+40748 [main] INFO  24 Jul 2020 22:31:02 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+40748 [main] INFO  24 Jul 2020 22:31:02 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+40748 [main] INFO  24 Jul 2020 22:31:02 PropertyFileRead  - File Path-F:/Appium_Workspace/eBayAutomation/src/eBay/properties/userDetails.properties
+40748 [main] INFO  24 Jul 2020 22:31:02 PropertyFileRead  - Property File - F:\Appium_Workspace\eBayAutomation\src\eBay\properties\userDetails.properties
+94803 [main] INFO  24 Jul 2020 22:31:57 VerifyProductTest  - Running AfterTest
